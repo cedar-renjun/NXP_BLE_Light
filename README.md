@@ -22,10 +22,10 @@ NXP软件框架中使用了Timer0，所以这里采用Timer1/Timer2两个PWM定�
 
 硬件连接如下
 
-LED W -- T1 -- Ch0 -- PC4 -- KW40Z Board J3 Pin2
-LED B -- T1 -- Ch1 -- PC5 -- KW40Z Board J4 Pin10
-LED G -- T2 -- Ch0 -- PC6 -- KW40Z Board J1 Pin2
-LED R -- T2 -- Ch1 -- PC7 -- KW40Z Board J1 Pin4
+	LED W -- T1 -- Ch0 -- PC4 -- KW40Z Board J3 Pin2
+	LED B -- T1 -- Ch1 -- PC5 -- KW40Z Board J4 Pin10
+	LED G -- T2 -- Ch0 -- PC6 -- KW40Z Board J1 Pin2
+	LED R -- T2 -- Ch1 -- PC7 -- KW40Z Board J1 Pin4
 
 
 ## 6.  用法
